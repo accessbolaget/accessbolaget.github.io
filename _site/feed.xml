@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Accessbolaget</title>
+    <description>Accessbolaget är namnet på vårt bolag – och vi kan på stadsnätens infrastruktur leverera moderna och flexibla Carrier Ethernet-tjänster med bandbredder från 10 Mbit/s till 10 Gbit/s till företagsmarknaden.
+</description>
+    <link>http://yourdomain.com/</link>
+    <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Tue, 25 Nov 2014 03:29:46 +0100</pubDate>
+    <lastBuildDate>Tue, 25 Nov 2014 03:29:46 +0100</lastBuildDate>
+    <generator>Jekyll v2.5.2</generator>
+    
+      <item>
+        <title>Nytt samarbete</title>
+        <description>&lt;p&gt;Nytt samarbete med företag X. Hej och hå! &lt;/p&gt;
+</description>
+        <pubDate>Mon, 24 Nov 2014 23:49:17 +0100</pubDate>
+        <link>http://yourdomain.com/2014/11/24/nytt-samarbete.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/2014/11/24/nytt-samarbete.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Välkommen till bloggen!</title>
+        <description>&lt;p&gt;Första blogginlägget! Här kan man uppdatera med nyheter. &lt;/p&gt;
+</description>
+        <pubDate>Mon, 24 Nov 2014 22:49:17 +0100</pubDate>
+        <link>http://yourdomain.com/2014/11/24/valkommen-till-bloggen.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/2014/11/24/valkommen-till-bloggen.html</guid>
+        
+        
+      </item>
+    
+  </channel>
+</rss>
